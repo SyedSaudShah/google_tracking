@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336505251470",
+    "project_id": "fir-91fba",
+    "storage_bucket": "fir-91fba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336505251470:android:763f76667eea000cc58bdf",
+        "android_client_info": {
+          "package_name": "com.example.google_tracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL4sh6jzxy5MLmITPTSXFiXLjqcUsujk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
