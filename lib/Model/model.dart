@@ -1,1 +1,1 @@
-enum UserActivity { walking, inVehicle, onBicycle, unknown }
+//enum UserActivity { walking, inVehicle, onBicycle, unknown }
